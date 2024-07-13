@@ -1,0 +1,18 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plant-input{
+    width: 200px;
+    height: 30px;
+}
+
+.add-plant-btn{
+    display: block;
+    margin: 10px auto;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
